@@ -1,4 +1,4 @@
-# Born2BeRoot - My 42 School Project Journey 🌱
+# Born2BeRoot - My 1337 Project Journey 🌱
 
 ## Description
 "Born2BeRoot" is a foundational project undertaken during my time at 1337 FIL, focusing on the fundamentals of system administration and server management. This project challenged me to set up a virtual machine (VM) running a Linux distribution and configure it to meet specific requirements.
