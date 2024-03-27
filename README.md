@@ -12,12 +12,12 @@ The "Born2BeRoot" project aims to provide hands-on experience with system admini
 3. **User Management:** Create and manage user accounts with appropriate privileges and permissions.
 4. **Network Configuration:** Configure network interfaces, IP addressing, and DNS settings to ensure connectivity.
 5. **Security Settings:** Implement security measures such as firewall configuration, SSH hardening, and user authentication.
-6. **Package Management:** Use package management tools (e.g., apt, yum) to install, update, and remove software packages.
+6. **Package Management:** Use package management tools (e.g., apt, aptitude) to install, update, and remove software packages.
 
 ## Challenges Faced
 During the "Born2BeRoot" project, I encountered challenges with:
-1. Understanding Linux System Administration: Grasping the concepts and principles of Linux system administration, including user management, network configuration, and security practices.
-2. Troubleshooting and Debugging: Identifying and resolving configuration errors, network connectivity issues, and security vulnerabilities.
+1. Understanding Linux System Administration: Grasping the concepts and principles of Linux system administration, including user management, network configuration.
+2. Troubleshooting and Debugging: Identifying and resolving configuration errors, network connectivity issues.
 3. Documentation and Reporting: Documenting the setup process, configurations, and troubleshooting steps in a clear and concise manner for project submission.
 
 ## Reflection
